@@ -8,43 +8,43 @@ An interactive workshop
 
 What is this workshop about?
 
-+ Practicing using your tools 👍
-+ Practicing your craft/techniques 👍
-+ ~~Winning~~ Having fun 👍
++ Practicing using your tools
++ Practicing your craft/techniques
++ ~~Winning~~ Having fun
 
-Note: Practicing and fun. Not everyone enjoys competition—this is not about winning.  
+Note: Practicing and fun. Not everyone enjoys competition-this is not about winning.
 
 --
 
 ## Introduction
 
-What isn’t this workshop about?
+What isn't this workshop about?
 
-+ Convincing you that TDD is a good thing 👎
-+ Learning to code 👎
-+ Learning what good code is 👎
++ Convincing you that TDD is a good thing
++ Learning to code
++ Learning what good code is
 
-Note: These are all good things, but we have limited time.  
+Note: These are all good things, but we have limited time.
 
 ---
 
 ## What is refactoring?
 
-> Code refactoring is the process of restructuring existing computer code—changing the factoring—without changing its external behavior.
+> Code refactoring is the process of restructuring existing computer code-changing the factoring-without changing its external behavior.
 
-—[Wikipedia](https://en.wikipedia.org/wiki/Code_refactoring)
+-[Wikipedia](https://en.wikipedia.org/wiki/Code_refactoring)
 
 --
 
-## If you don’t know how to refactor…
+## If you don't know how to refactor…
 
 [Source Making](https://sourcemaking.com/refactoring) has a great site about refactoring.
 
 <https://sourcemaking.com/refactoring>
 
-Feel free to ask others for help—the aim is to learn.
+Feel free to ask others for help-the aim is to learn.
 
-Note: Send the link to people via chat: https://sourcemaking.com/refactoring  
+Note: Send the link to people via chat: https://sourcemaking.com/refactoring
 
 ---
 
@@ -52,7 +52,7 @@ Note: Send the link to people via chat: https://sourcemaking.com/refactoring
 
 > Refactoring Golf is a game designed to stretch your refactoring muscles and get you to explore your IDE to see what's really possible using shortcuts and automation.
 
-—[David Denton](https://github.com/daviddenton/refactoring-golf)
+-[David Denton](https://github.com/daviddenton/refactoring-golf)
 
 --
 
@@ -61,7 +61,7 @@ Note: Send the link to people via chat: https://sourcemaking.com/refactoring
 + Aim is to complete a series of holes using the least strokes possible
 + The repository contains several source trees, or numbered holes based on a single exercise
 + Each hole follows from the previous one
-+ Goal is to safely and efficiently as possible refactor the current hole’s code to look like the next hole’s code
++ Goal is to safely and efficiently as possible refactor the current hole's code to look like the next hole's code
 + A stroke is essentially a change made to the code, and every stroke costs you points
 
 ---
@@ -82,7 +82,7 @@ Note: This information is in the README. Send link to the README via chat so the
 + Work as a group and share attempts
 + Someone codes, someone else scores
     + Note what steps you take to get your best score
-+ We’ll gather after each hole and discuss
++ We'll gather after each hole and discuss
 + About ten minutes per hole, then about five to discuss
 
 --
@@ -90,12 +90,12 @@ Note: This information is in the README. Send link to the README via chat so the
 ## Getting set up
 
 + Clone <https://github.com/autotraderuk/refactoring-golf>
-+ Use either VS Code or IntelliJ—it’s up to you
++ Use either VS Code or IntelliJ-it's up to you
     + VS Code has a nice built in pairing feature
 
 Note:
-    Since the intent is practicing, people may want to stick with the IDE they are familiar with.  
-    Possible to do Java with VS Code.  
+    Since the intent is practicing, people may want to stick with the IDE they are familiar with.
+    Possible to do Java with VS Code.
 
 ---
 
@@ -145,7 +145,7 @@ How did people do? Would anyone like to share?
 
 + Record is seven strokes
 
-Note: We don’t know how this is possible with seven strokes  
+Note: We don't know how this is possible with seven strokes
 
 ---
 
@@ -159,8 +159,8 @@ Note: We don’t know how this is possible with seven strokes
 | 4    | 6          |
 | 5    | 10         |
 | 6    | 7          |
- 
-Note: Course record of 38 achieved using Java + IntelliJ  
+
+Note: Course record of 38 achieved using Java + IntelliJ
 
 ---
 
@@ -170,4 +170,4 @@ Note: Course record of 38 achieved using Java + IntelliJ
 + What did people learn?
 + Feel free to carry on!
 
-Note: Explain how people can continue to interact afterwards.  
+Note: Explain how people can continue to interact afterwards.
